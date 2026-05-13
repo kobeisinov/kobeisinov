@@ -8,7 +8,7 @@ I'm a software engineer and builder from Kazakhstan. I grew up reading too much 
 
 📝 I write (mostly to think out loud). My main channel is in Telegram — thoughts in Kazakh, Russian, and English, on books, work, and the slow craft of becoming. I also run **[@nursxit](https://t.me/nursxit)** for tech, productivity, and the more professional side of things.
 
-📚 Back then — I lived in South Korea. I studied CS at **UNIST** in Ulsan, built animated 3D UIs and Android apps at **stonelab** in Seoul, integrated Kakao OAuth, and prototyped distributed counter algorithms in Flutter under Prof. Tsz-Chiu Au.
+📚 Back then — I lived in South Korea. I studied CS at **UNIST** in Ulsan, built animated 3D UIs and Android apps at **stonelab** in Seoul, and prototyped distributed counter algorithms in Flutter under Prof. Tsz-Chiu Au.
 
 Random fact: Won a bronze medal at the Zhautykov International Math Olympiad in 2018
 
