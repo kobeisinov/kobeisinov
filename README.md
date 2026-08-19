@@ -6,8 +6,6 @@ I'm a software engineer and builder from Kazakhstan. I grew up reading too much 
 
 🔨 I build small things on the side. The one I'm most fond of is **[Zamanauli.com](https://zamanauli.com)** — an Urban Dictionary for Kazakh slang, because the internet deserves to know what young Kazakhs are actually saying. Built with Next.js, Supabase.
 
-📝 I write (mostly to think out loud). My main channel is in Telegram (as many CA region people use it) — thoughts in Kazakh, Russian, and English, on books, work, and the slow craft of becoming. I also run **[@nursxit](https://t.me/nursxit)** for tech, life of masters, productivity, and the more professional side of things.
-
 📚 Back then — I lived in South Korea. I studied CS at **UNIST** in Ulsan, worked under Prof. Tsz-Chiu Au, and built animated 3D UIs and Android apps at **stonelab** in Seoul,
 
 Random fact: Won a bronze medal at the Zhautykov International Math Olympiad in 2018
